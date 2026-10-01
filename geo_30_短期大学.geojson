@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_30_短期大学",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "30201", "P29_002": "F230310109397", "P29_003": "16006", "P29_004": "和歌山信愛女子短期大学", "P29_005": "和歌山県和歌山市相坂702-2", "P29_006": "4", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 135.230869308648181, 34.200021097905427 ] } }
+]
+}

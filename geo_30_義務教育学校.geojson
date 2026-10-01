@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_30_義務教育学校",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "30201", "P29_002": "C230210000010", "P29_003": "16014", "P29_004": "和歌山市立伏虎義務教育学校", "P29_005": "和歌山県和歌山市鷺ノ森南ノ丁1", "P29_006": "3", "P29_007": "1", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 135.170810094563478, 34.235395775343342 ] } }
+]
+}
